@@ -1,0 +1,2 @@
+# ShoppingList
+Consider that your mother wants to do some grocery shopping in this pandemic time. You have to help her in creating a grocery shopping list as a JSON file with a minimum of 10 objects(product). Each product must contain: Serial number, Name, Quantity, Unit, Department, Notes.  Using AJAX concepts retrieve all the contents from the JSON file and display it as a TABLE format so that it will be easy for your mother to read.
