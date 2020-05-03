@@ -1,23 +1,23 @@
 {
-    "Shopping List":[
+    "ShoppingList":[
         {
-            "Sl. No":"1",
+            "SlNo":"1",
             "Particulars":"Rice",
             "Quantity":"5 Kg",
-            "Unit Cost":"45 INR",
+            "UnitCost":"45 INR",
             "Department":"Grocery",
             "Notes":"Buy 5-Star or 3-Rose"
         },
         {
-            "Sl. No":"2",
+            "SlNo":"2",
             "Particulars":"Black Gram",
             "Quantity":"0.5 Kg",
-            "Unit Cost":"100 INR",
+            "UnitCost":"100 INR",
             "Department":"Grocery",
             "Notes":""
         },
         {
-            "Sl. No":"3",
+            "SlNo":"3",
             "Particulars":"Sanitizer",
             "Quantity":"2 Bottle",
             "Unit Cost":"100 INR",
@@ -25,58 +25,58 @@
             "Notes":"Buy LifeBuoy or Salvon"
         },
         {
-            "Sl. No":"4",
+            "SlNo":"4",
             "Particulars":"Face Mask",
             "Quantity":"5 Nos.",
-            "Unit Cost":"20 INR",
+            "UnitCost":"20 INR",
             "Department":"Medical Supplies",
             "Notes":"Buy Cloth or Semi-Cloth"
         },
         {
-            "Sl. No":"5",
+            "SlNo":"5",
             "Particulars":"Edible Oil",
             "Quantity":"1 Ltr",
-            "Unit Cost":"150 INR",
+            "UnitCost":"150 INR",
             "Department":"Grocery",
             "Notes":"Buy Sunflower Oil or Olive Oil"
         },
         {
-            "Sl. No":"6",
+            "SlNo":"6",
             "Particulars":"Bun",
             "Quantity":"3 Packs",
-            "Unit Cost":"50 INR",
+            "UnitCost":"50 INR",
             "Department":"Bakery",
             "Notes":"Buy Ghee Bun or Cream Bun"
         },
         {
-            "Sl. No":"7",
+            "SlNo":"7",
             "Particulars":"Sugar",
             "Quantity":"2 Kg",
-            "Unit Cost":"45 INR",
+            "UnitCost":"45 INR",
             "Department":"Grocery",
             "Notes":""
         },
         {
-            "Sl. No":"8",
+            "SlNo":"8",
             "Particulars":"Instatnt Coffee Powder",
             "Quantity":"0.5 Kg",
-            "Unit Cost":"250 INR",
+            "UnitCost":"250 INR",
             "Department":"Grocery",
             "Notes":"Buy Bru or Kannan Devan"
         },
         {
-            "Sl. No":"9",
+            "SlNo":"9",
             "Particulars":"Chips",
             "Quantity":"3 Packs",
-            "Unit Cost":"30 INR",
+            "UnitCost":"30 INR",
             "Department":"Bakery",
             "Notes":"Buy Potato or Banana"
         },
         {
-            "Sl. No":"10",
+            "SlNo":"10",
             "Particulars":"Milk Powder",
             "Quantity":"1 Kg",
-            "Unit Cost":"100 INR",
+            "UnitCost":"100 INR",
             "Department":"Grocery",
             "Notes":"Buy  Amul or Nestle"
         }
