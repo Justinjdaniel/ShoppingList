@@ -28,10 +28,12 @@ button:hover{
     
 }
 h1{
+    margin: 70px auto;
     text-align: center;
     letter-spacing: 2px;
     font-family: 'Russo One', sans-serif;
     font-weight: bold;
+    text-decoration: underline;
 }
 table{
     width: 100%;
