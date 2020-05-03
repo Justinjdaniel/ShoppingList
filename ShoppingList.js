@@ -15,7 +15,7 @@ function ShopplingList(){
             document.getElementById("ShopList").innerHTML == tabstart + output + "</table>";
             // document.getElementById("tabend").innerHTML ="</table>"
         }
-    }
+    };
     xhttp.open("GET","ShoppingList.json",true);
     xhttp.send();
 }
