@@ -11,7 +11,7 @@ body{
     margin: 10px 200px;
 }
 button{
-    margin: 0 46%;
+    margin-left: 45.5%;
     padding: 10px;
     border: 2px solid black;
     font-weight: solid;
@@ -51,7 +51,7 @@ table, th, td {
     padding: 5px;
 }
 caption{
-    border: 2px solid black;
+    border: 1px solid black;
     background-color: black;
     color: white;
     font-family: 'Russo One', sans-serif;
